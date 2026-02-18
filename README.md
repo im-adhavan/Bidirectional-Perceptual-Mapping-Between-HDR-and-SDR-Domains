@@ -47,7 +47,7 @@ Rather than treating tone mapping as heuristic image processing, this work treat
 Dataset path:
 
 ```
-C:\hdr_perceptual\data\hdr_exr
+data\hdr_exr
 ```
 
 All processing is GPU-based and memory-safe via streaming EXR loading.
